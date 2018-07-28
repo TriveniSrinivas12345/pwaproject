@@ -1,0 +1,123 @@
+.parent{
+  border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+}
+.child1{
+  border: 2px solid blue;
+  padding: 2%;
+  margin: 2%;
+  width: 30%;
+  text-align: center;
+
+}
+.child2{
+  border: 2px solid blue;
+  margin: 2%;
+  padding: 2%;
+  width: 70%;
+}
+@media only screen and (min-width:0px) and (max-width:480px){
+  .main{
+    border: 2px solid red;
+    padding: 2%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .child1{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    background-color: skyblue;
+    text-align: center;
+}
+
+h2{
+  color: purple;
+}
+a{
+  color: brown;
+  font-size:  30px;
+  text-align: center;
+}
+#name{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+#phno{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+.child1 img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.child2{
+  border:2px solid black;
+  padding: 2%;
+  margin: 2%;
+  width: 40%;
+  background-color: skyblue;
+}
+}
+@media only screen and (min-width:481px) and (max-width:786px){
+  .main{
+    border: 2px solid red;
+    padding: 2%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .child1{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    background-color: skyblue;
+    text-align: center;
+}
+
+h2{
+  color: purple;
+}
+a{
+  color: brown;
+  font-size:  30px;
+  text-align: center;
+}
+#name{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+#phno{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+.child1 img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.child2{
+  border:2px solid black;
+  padding: 2%;
+  margin: 2%;
+  width: 40%;
+  background-color: skyblue;
+}
+}

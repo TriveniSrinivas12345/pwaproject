@@ -1,0 +1,51 @@
+{"details":{
+  "image":"profile.png",
+  "name":"triveni",
+  "phno":"+91867646664",
+  "email":"trivenic3011@gmail.com",
+  "address":"MIC college,kanchikacherla"
+},
+"career":{
+  "info":"i want to live my life happy"
+},
+"education":[
+  {
+"qualification":"B.Tech",
+"institute":"MIC college",
+"year":"2016-2020",
+"percentage":"7.5"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Narayana junior college",
+  "year":"2014-2016",
+  "percentage":"87%"
+},
+{
+  "qualification":"SSC",
+  "institute":"Narayana e-techno school",
+  "year":"2014",
+  "percentage":"9.3"
+}
+],
+"skills":
+[{
+  "title":"programing language",
+  "info":["c,c++,Java,R,python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,tinydb"]
+},
+{
+  "title":"operating systems",
+  "info":["windows,mac,linux"]
+}
+],
+"achievements":
+[
+  {
+    "info":["i got the best player trophy in sports"]
+  }
+]
+}
